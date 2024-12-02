@@ -1,4 +1,3 @@
-homeassistant/amd64-addon-mosquitto
 busybox
 langchain/langchain
 homeassistant/home-assistant
